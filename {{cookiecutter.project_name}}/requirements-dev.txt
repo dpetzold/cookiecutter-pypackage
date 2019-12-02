@@ -1,7 +1,6 @@
 bump2version
 bpython
 flake8
-Sphinx
 pre-commit
 twine
 watchdog
