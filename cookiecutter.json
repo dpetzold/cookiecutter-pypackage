@@ -1,4 +1,5 @@
 {
+  "command_line_interface": "argparse",
   "full_name": "Derrick Petzold",
   "email": "github@petzold.io",
   "github_username": "dpetzold",
