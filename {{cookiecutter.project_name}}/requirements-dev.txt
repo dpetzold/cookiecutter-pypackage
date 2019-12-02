@@ -3,5 +3,4 @@ bpython
 flake8
 pre-commit
 twine
-watchdog
 wheel
