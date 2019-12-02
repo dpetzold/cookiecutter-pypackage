@@ -2,7 +2,7 @@
 
 set -ex
 
-PYTHON_VERSION={{ cookiecutter.python_version }
+PYTHON_VERSION={{ cookiecutter.python_version }}
 VIRTUALENV_NAME={{ cookiecutter.project_name }}-${PYTHON_VERSION}
 
 eval "$(pyenv init -)"
