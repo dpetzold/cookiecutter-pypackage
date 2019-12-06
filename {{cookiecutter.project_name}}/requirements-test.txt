@@ -1,4 +1,4 @@
 pytest
 pytest-cov
+pytest-socket
 python-coveralls
-python-socket
