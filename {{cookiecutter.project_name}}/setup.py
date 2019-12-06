@@ -36,7 +36,7 @@ setup(
     description="{{ cookiecutter.project_short_description }}",
     entry_points={
         'console_scripts': [
-            '{{ cookiecutter.project_slug }}={{ cookiecutter.project_slug }}.main:main',
+            '{{ cookiecutter.project_name }}={{ cookiecutter.project_slug }}.main:main',
         ],
     },
     extras_require={
