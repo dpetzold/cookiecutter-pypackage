@@ -16,3 +16,4 @@ pip install --upgrade pip
 pip install -e .
 pip install -r requirements-all.txt
 pre-commit install
+echo "pyenv activate ${VIRTUALENV_NAME}"
